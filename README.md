@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake](https://raw.githubusercontent.com/Catw1thu/Catw1thu/output/snake/snake.svg)
+
 <!--
 **Catw1thu/Catw1thu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
