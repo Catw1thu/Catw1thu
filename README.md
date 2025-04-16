@@ -1,5 +1,5 @@
 
-![亮色](https://raw.githubusercontent.com/Catw1thu/Catw1thu/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Catw1thu/Catw1thu/output/github-contribution-grid-snake.svg)
 
 <!--
 -⚡-
