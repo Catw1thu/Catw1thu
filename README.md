@@ -1,10 +1,10 @@
-<!--
-![暗色](https://raw.githubusercontent.com/Catw1thu/Catw1thu/output/github-contribution-grid-snake-dark.svg)
--->
 
+![暗色](https://raw.githubusercontent.com/Catw1thu/Catw1thu/output/github-contribution-grid-snake-dark.svg)
+
+<!--
 -⚡-
 ![](./profile-3d-contrib/profile-night-green.svg)
-
+-->
 <!--
 **Catw1thu/Catw1thu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
